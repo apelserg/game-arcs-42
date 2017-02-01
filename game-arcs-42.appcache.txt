@@ -1,0 +1,21 @@
+﻿CACHE MANIFEST
+# Ver 0.1.0
+# 001
+
+
+CACHE:
+
+game-arcs-42.htm
+game-arcs-42-canva.js
+game-arcs-42-config.js
+game-arcs-42-lang.js
+game-arcs-42-main.js
+game-arcs-42-model.js
+game-arcs-42-ui.js
+
+
+NETWORK:
+
+*
+
+FALLBACK:
